@@ -4,9 +4,9 @@
 
 使用时需要在WikiEditor之后引用TemplateInserter。
 
-`require_once( "$IP/extensions/WikiEditor/WikiEditor.php" );
+`require_once( "$IP/extensions/WikiEditor/WikiEditor.php" );`
 
-require_once( "$IP/extensions/TemplateInserer/TemplateInserer.php" );`
+`require_once( "$IP/extensions/TemplateInserer/TemplateInserer.php" );`
 
 效果图：
 
